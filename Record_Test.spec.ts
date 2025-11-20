@@ -28,6 +28,8 @@ test('[3] Record a test', { tag: ['@PlaywrightWithAzureDevOpsPipeline','@Playwri
 });
 
 
+// Add a new empty line.
+
 /**
  * Author Testers Talk
  */
